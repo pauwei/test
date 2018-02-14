@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/*
+* Purpose of project is to convert hexadecimal numbers to decimal numbers
+* Test for GitHub
+* */
 public class Main {
 
     public static void main(String[] args){
